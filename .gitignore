@@ -5,7 +5,9 @@ secrets/*
 logs/*
 env/*
 
+
 # Ignore big file extensions
+*.egg-info
 *.zip
 *.tar
 *.gz
@@ -66,3 +68,16 @@ env/*
 *.jar
 *.war
 *.ear
+*__pycache__/*
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.sqlite
+*.db-journal
+*.log
+*.bak
+*.swp
+*.swo
+*.swn

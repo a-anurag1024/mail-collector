@@ -7,7 +7,7 @@ import time
 from pathlib import Path
 from tqdm import tqdm
 
-from mail_collector.gmail_postman import GmailPostman_Attr, GmailPostman
+from gmail_collector.gmail_postman import GmailPostman_Attr, GmailPostman
 
 
 @dataclass

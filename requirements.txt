@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+panel
+watchfiles
+plotly
+nbformat>=4.2.0
