@@ -81,3 +81,4 @@ env/*
 *.swp
 *.swo
 *.swn
+*.venv
